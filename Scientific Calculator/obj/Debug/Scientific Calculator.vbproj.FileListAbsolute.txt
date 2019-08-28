@@ -1,0 +1,52 @@
+c:\users\muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe.config
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.ResolveComReference.cache
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.pdb
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.xml
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Form1.resources
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Resources.resources
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.GenerateResource.Cache
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.exe
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.xml
+C:\Users\Muhammad\documents\visual studio 2013\Projects\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.pdb
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe.config
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.pdb
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.xml
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbprojResolveAssemblyReference.cache
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Interop.MSScriptControl.dll
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.ResolveComReference.cache
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Form1.resources
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Resources.resources
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.GenerateResource.Cache
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.CoreCompileInputs.cache
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.exe
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.xml
+E:\Scientific Calculator\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.pdb
+E:\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe.config
+E:\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe
+E:\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.pdb
+E:\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.xml
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbprojResolveAssemblyReference.cache
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Interop.MSScriptControl.dll
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.ResolveComReference.cache
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Form1.resources
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Resources.resources
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.GenerateResource.Cache
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.CoreCompileInputs.cache
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.exe
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.xml
+E:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.pdb
+J:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbprojResolveAssemblyReference.cache
+J:\Scientific Calculator\Scientific Calculator\obj\Debug\Interop.MSScriptControl.dll
+J:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.ResolveComReference.cache
+J:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.exe
+J:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.xml
+J:\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.pdb
+D:\7 semester\New folder (2)\New folder\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbprojResolveAssemblyReference.cache
+D:\7 semester\New folder (2)\New folder\Scientific Calculator\Scientific Calculator\obj\Debug\Interop.MSScriptControl.dll
+D:\7 semester\New folder (2)\New folder\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.vbproj.ResolveComReference.cache
+D:\7 semester\New folder (2)\New folder\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.exe
+D:\7 semester\New folder (2)\New folder\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.xml
+D:\7 semester\New folder (2)\New folder\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.pdb
